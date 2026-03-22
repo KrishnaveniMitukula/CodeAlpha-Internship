@@ -1,0 +1,41 @@
+Review,Rating,Category,Sentiment,Polarity,Subjectivity
+This product is absolutely amazing! Best purchase ever.,5,Electronics,Positive,0.875,0.6
+"Fantastic quality, exceeded my expectations completely!",5,Electronics,Positive,0.2625,0.65
+"Superb product, works perfectly. Highly recommend to everyone!",5,Electronics,Positive,0.6,0.77
+Excellent value for money. Very happy with this purchase.,5,Electronics,Positive,1.0,1.0
+"Outstanding performance, delivery was fast and packaging great!",5,Electronics,Positive,0.5666666666666667,0.7416666666666667
+Love this product! It works exactly as described. Very happy.,5,Clothing,Positive,0.625,0.6166666666666667
+Perfect fit and great quality material. Will buy again soon!,5,Clothing,Positive,0.7999999999999999,0.7166666666666667
+Beautiful design and very comfortable to wear daily.,4,Clothing,Positive,0.4566666666666667,0.6666666666666666
+Great product at an affordable price. Totally worth it!,4,Clothing,Positive,0.5875,0.425
+Very satisfied with purchase. Quality is better than expected.,4,Clothing,Positive,0.3499999999999999,0.6333333333333333
+Delicious taste! Best food product I have ever ordered online.,5,Food,Positive,1.0,0.65
+Amazing flavor and very fresh. Will definitely order again!,5,Food,Positive,0.33,0.6833333333333332
+Great taste and good quality packaging. Very impressed!,4,Food,Positive,0.8333333333333334,0.7833333333333333
+"Wonderful product, kids absolutely love it every single day.",5,Food,Positive,0.4761904761904762,0.6047619047619047
+Tasty and healthy. Perfect for my daily breakfast routine.,4,Food,Positive,0.5,0.5
+Product is okay. Nothing special but does the job fine.,3,Electronics,Positive,0.42460317460317465,0.5238095238095238
+"Average quality, works as expected. Delivery was on time.",3,Electronics,Negative,-0.125,0.4
+It is decent. Not the best but not the worst either.,3,Electronics,Neutral,0.05555555555555558,0.6555555555555556
+"Mediocre product. Some features work well, others do not.",3,Electronics,Negative,-0.5,1.0
+Acceptable quality for the price. Could be better overall.,3,Clothing,Positive,0.25,0.25
+Fits okay. Color is slightly different from picture shown.,3,Clothing,Positive,0.25,0.55
+Average material quality. Neither good nor bad experience.,3,Clothing,Neutral,-0.04999999999999997,0.5555555555555555
+Product is fine. Does what it says nothing more nothing less.,3,Food,Positive,0.25000000000000006,0.35555555555555557
+Taste is average. Not as good as expected from description.,3,Food,Positive,0.15,0.4666666666666666
+Okay product. Packaging could be improved for better safety.,3,Food,Positive,0.5,0.5
+Terrible product! Stopped working after just two days use.,1,Electronics,Negative,-1.0,1.0
+Very disappointed. Quality is extremely poor for this price.,1,Electronics,Negative,-0.6875,0.7875000000000001
+Worst purchase ever made. Complete waste of money spent.,1,Electronics,Negative,-0.30000000000000004,0.375
+Product broke immediately. Very bad quality and poor build.,2,Electronics,Negative,-0.6549999999999999,0.7333333333333334
+Horrible experience. Customer service was also very rude.,1,Electronics,Negative,-0.6950000000000001,0.89
+Does not fit at all. Size chart is completely wrong here.,1,Clothing,Negative,-0.35,0.65
+Very poor quality material. Started falling apart quickly.,2,Clothing,Neutral,-0.09333333333333335,0.64
+Extremely disappointed with this product. Not worth money.,1,Clothing,Negative,-0.45,0.425
+Bad stitching and wrong color. Will never buy from here again.,2,Clothing,Negative,-0.5999999999999999,0.7833333333333333
+Terrible quality clothing. Looks nothing like the picture.,1,Clothing,Negative,-1.0,1.0
+Awful taste and smell was very bad. Totally inedible product.,1,Food,Negative,-0.6366666666666666,0.8722222222222222
+Food arrived damaged and expired. Very dangerous product.,1,Food,Negative,-0.78,1.0
+Disgusting product. Made me feel sick after eating it.,1,Food,Negative,-0.8571428571428572,0.9285714285714286
+Worst food ever ordered. Taste is absolutely horrible.,2,Food,Negative,-1.0,1.0
+Very bad quality food. Packaging was broken and leaking badly.,2,Food,Negative,-0.6699999999999999,0.6444444444444444
